@@ -1,26 +1,19 @@
-# Mini_Project
-The Expense Tracker mini project is a web-based application designed to help users manage and monitor their expenses effortlessly. Developed using HTML, CSS, JavaScript, and Firebase, this application provides a user-friendly interface for recording and analyzing financial transactions.
-Frontend Stack:
-1-HTML (HyperText Markup Language):
-The structure of the web pages is defined using HTML, providing a foundation for content presentation.
+Quizo(Online Quiz Portal)
 
-2-CSS (Cascading Style Sheets):
-CSS is employed for styling and layout, ensuring a visually appealing and responsive user interface. It controls the presentation aspects of the application.
+Javascript, HTML and CSS, Python.
 
-3-JavaScript:
-JavaScript is utilized for client-side scripting to enhance interactivity and dynamic behavior. It handles user inputs, form validations, and interacts with the backend through AJAX calls.
+Features & Details: 
+◦ Technology Used: HTML, CSS, Javascript, Firebase Database and Authentication.
 
+◦ Quiz Portal which contains several features such as registration, login, timer, score calculations.
 
+◦ It saves the responses of all participated students and anyone can explore the data of the portal in just single click and keeping record of all students.
 
-Backend Stack:
+Sign-Up Window 
+<img width="1430" alt="Screenshot 2022-12-19 at 12 26 44 PM" src="https://user-images.githubusercontent.com/96561477/208367508-07c02bfd-3da4-4658-986e-f48727a53fcf.png">
 
-1-Firebase:
-Firebase is the chosen backend-as-a-service (BaaS) platform, providing a real-time NoSQL database for storing expense data. It also facilitates user authentication, securing user accounts.
+Sign-In Window
+<img width="1440" alt="Screenshot 2022-12-19 at 12 38 29 PM" src="https://user-images.githubusercontent.com/96561477/208368060-ffa3ae8b-7759-43cf-a78a-04aa9f8a4747.png">
 
-2-Firebase Authentication:
-Firebase Authentication services are used for secure user registration, login, and account management, ensuring a protected and personalized experience for each user.
-
-3-Firebase Realtime Database:
-The Firebase Realtime Database is employed for real-time data synchronization, allowing users to see immediate updates to their expense data without the need for manual refreshes.
-
-By combining HTML, CSS, JavaScript, and Firebase, the Expense Tracker mini project offers users a practical and efficient tool for managing their finances. Whether for personal use or as a learning project, this application provides a valuable hands-on experience in web development and Firebase integration.
+Quiz Window
+<img width="1440" alt="Screenshot 2022-12-19 at 12 40 06 PM" src="https://user-images.githubusercontent.com/96561477/208368276-b99aa95c-7ec7-4c91-bc48-aec467e718bc.png">
