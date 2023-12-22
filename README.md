@@ -1,4 +1,4 @@
-                                                    Expense Tracker Project
+                                              Expense Tracker Project
 
 Features & Details: 
 ◦ Technology Used: HTML, CSS, Javascript, Firebase Database and Authentication.
