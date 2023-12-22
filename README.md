@@ -38,4 +38,4 @@ Sign-In Window
 
 Expense Tracker Window
 <img width="948" alt="Tracker_Page" src="https://github.com/Jagratidixit/Mini_Project/assets/101131508/94e39435-45cf-4f0f-8674-49fe4d484e92">
-<img width="344" alt="trackerpage2" src="https://github.com/Jagratidixit/Mini_Project/assets/101131508/e549ba4b-d5a3-4063-8399-02ceb04ebb52">
+<img width="945" alt="trackerpage2" src="https://github.com/Jagratidixit/Mini_Project/assets/101131508/ad6f4f71-67b4-4608-b70a-482755b0a645">
